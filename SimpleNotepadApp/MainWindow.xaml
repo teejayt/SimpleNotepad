@@ -12,14 +12,7 @@
                 </MenuItem>
                 <MenuItem Header="_Edit">
                     <MenuItem Header="_Time/Date"/>
-                </MenuItem>
-                <MenuItem Header="_Format">
-                    <MenuItem Header="_Wrap"></MenuItem>
-                </MenuItem>
-                <MenuItem Header="View">
-                    <MenuItem Header="_Status Bar"></MenuItem>
-                </MenuItem>
-                
+                </MenuItem>               
                 <MenuItem Header="Help">
                     <MenuItem Header="About the Author"></MenuItem>
                 </MenuItem>
